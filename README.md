@@ -1,1 +1,1 @@
-# Python_Fonksiyonlar
+Turkce Dilde Python Uygulamalari ve Dersleri
